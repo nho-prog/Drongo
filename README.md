@@ -12,11 +12,11 @@
   ## Installing essential libraries that you will need
  1. Open a shell and run sudo apt update
 
-2.Ensure that you have installed the essential headers and libraries: sudo apt install build-essential
+ 2.Ensure that you have installed the essential headers and libraries: sudo apt install build-essential
 
-3.You can write unit tests for all your C code using munit. NOTE: We will start with writing the unit tests via simple hand-crafter test functions, and then later move to something like munit.
+ 3.You can write unit tests for all your C code using munit. NOTE: We will start with writing the unit tests via simple hand-crafter test functions, and then later move to something like munit.
 
-5.Install Kore Web framework as  describe here https://docs.kore.io/4.1.0/install.html. You will use it to write an HTTP endpoint for receiving the requests for the ESB. NOTE: A skeleton is provided to get you started. However, you are strongly encouraged to go through the Kore's simple guide.
+ 4.Install Kore Web framework as  describe here https://docs.kore.io/4.1.0/install.html. You will use it to write an HTTP endpoint for receiving the requests for the ESB. NOTE: A skeleton is provided to get you started. However, you are strongly encouraged to go through the Kore's simple guide.
 
    ### Source code layout
       someuser@OX:~/temp/esb_proj/esb_app$ tree
