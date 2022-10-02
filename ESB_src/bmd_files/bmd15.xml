@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 15TH test case-->
+<?xml-stylesheet type="text/css"?>
+<BMD>
+<Envelop>
+<MessageID>6f45bdb8-f65b-11ea-adc1-0242ac120002</MessageID>
+<MessageType>CURR_EXCHG</MessageType>
+<Sender>6f45be9e-f65b-11ea-adc1-0242ac120002</Sender>
+<Destination>6f45bf70-f65b-11ea-adc1-0242ac120002</Destination>
+<CreationDateTime>2020-08-12T05:18:00+00001</CreationDateTime>
+<Signature>S7</Signature>
+<ReferenceID>6f45c038-f65b-11ea-adc1-0242ac120002</ReferenceID>
+<UserProperties>
+<key1>Value15</key1>
+<key2>Value25</key2>
+</UserProperties>
+</Envelop>
+<Payload>BRL</Payload>
+</BMD>

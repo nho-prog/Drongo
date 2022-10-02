@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NINTH test case-->
+<?xml-stylesheet type="text/css"?>
+<BMD>
+<Envelop>
+<MessageID>4ac28c58-f658-11ea-adc1-0242ac120002</MessageID>
+<MessageType>CreditReport</MessageType>
+<Sender>4ac28d16-f658-11ea-adc1-0242ac120002</Sender>
+<Destination>4ac28dde-f658-11ea-adc1-0242ac120002</Destination>
+<CreationDateTime>2020-08-12T05:18:00+00001</CreationDateTime>
+<Signature>S7</Signature>
+<ReferenceID>4ac28e9c-f658-11ea-adc1-0242ac120002</ReferenceID>
+<UserProperties>
+<key1>Value15</key1>
+<key2>Value25</key2>
+</UserProperties>
+</Envelop>
+<Payload>UTIB0001648</Payload>
+</BMD>

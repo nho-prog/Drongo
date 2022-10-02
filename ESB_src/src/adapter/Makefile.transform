@@ -1,0 +1,7 @@
+INCLUDE = `mysql_config --cflags --libs` `xml2-config --cflags` `xml2-config --libs`
+transform: xml_handler.o transform.c email.c
+	gcc transform.c -o transform ../bmd_handler/xml_handler.c ${INCLUDE} ./email.c -lcurl
+xml_handler.o: ../bmd_handler/xml_handler.c 
+	gcc  -c ../bmd_handler/xml_handler.c ${INCLUDE}
+clean:
+	rm *.o transform

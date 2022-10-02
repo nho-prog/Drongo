@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Third test case,suffix 3 -->
+<?xml-stylesheet type="text/css"?>
+<BMD>
+<Envelop>
+<MessageID>4ac2739e-f658-11ea-adc1-0242ac120002</MessageID>
+<MessageType>CreditReport</MessageType>
+<Sender>4ac27466-f658-11ea-adc1-0242ac120002</Sender>
+<Destination>4ac2752e-f658-11ea-adc1-0242ac120002</Destination>
+<CreationDateTime>2020-08-12T05:18:00+00001</CreationDateTime>
+<Signature>S3</Signature>
+<ReferenceID>4ac275f6-f658-11ea-adc1-0242ac120002</ReferenceID>
+<UserProperties>
+<key1>Value13</key1>
+<key2>Value23</key2>
+</UserProperties>
+</Envelop>
+<Payload>BKID0008605</Payload>
+</BMD>

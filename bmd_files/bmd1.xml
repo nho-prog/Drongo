@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--First test case-->
+<?xml-stylesheet type='text/xsl'?> 
+<BMD>
+<Envelop>
+<MessageID>4ac268c2-f658-11ea-adc1-0242ac120002</MessageID>
+<MessageType>CreditReport</MessageType>
+<Sender>4ac26b10-f658-11ea-adc1-0242ac120002</Sender>
+<Destination>4ac26c14-f658-11ea-adc1-0242ac120002</Destination>
+<CreationDateTime>2020-08-12T05:18:00+00001</CreationDateTime>
+<Signature>S1</Signature>
+<ReferenceID>4ac26ce6-f658-11ea-adc1-0242ac120002</ReferenceID>
+<UserProperties>
+<key1>Value11</key1>
+<key2>Value21</key2>
+</UserProperties>
+</Envelop>
+<Payload>SBIN0000882</Payload>
+</BMD>
